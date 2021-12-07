@@ -1,0 +1,30 @@
+/* STYLING FOR THE MESSAGES  */
+.message {
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    max-width: 55%;
+}
+
+.message__user{
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+}
+
+.message__userCard{
+    background-color: #0b81ff !important;
+    border-radius: 30px !important;
+    color: white !important;
+}
+
+.message__guestCard{
+    background-color: #e9e9eb !important;
+    border-radius: 30px !important;
+    
+}
+
+.username {
+    text-transform: capitalize;
+    text-align: left;
+}
